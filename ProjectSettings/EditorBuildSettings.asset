@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GarageRoom.unity
     guid: 21d7add4086be93418159d41acf0115b
+  - enabled: 1
+    path: Assets/Samples/Mixed Reality Toolkit Examples/2.8.3/Demos - HandTracking/Scenes/HandInteractionExamples.unity
+    guid: 3dd4a396b5225f8469b9a1eb608bfa57
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e0c2a3f7a606bc94fa374e64cb24d352, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 037b2807e74c36a4784e74dd613d36ac, type: 2}
